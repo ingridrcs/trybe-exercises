@@ -1,6 +1,6 @@
 # Trybe - Turma XP
 
-_Minha evolução como Desenvolvedora Web encontra-se [aqui](ingridrcs.github.io)_
+_Minha evolução como Desenvolvedora Web encontra-se _[aqui](ingridrcs.github.io)_
 
 Neste repositório constam todas as atividades de aprendizagem desenvolvidas por _[Ingrid Ramos](https://www.linkedin.com/in/ingrid-ramos-66711a21/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
